@@ -1,0 +1,32 @@
+body {
+	background-color: aqua;
+}
+
+#title {
+	text-align: center;
+	font-size: 72px;
+	font-family: cursive;
+	color: yellow;
+	background-color: coral;
+	margin-top: 10px;
+}
+
+.sad {
+	float: left;
+	margin-left: 250px;
+	margin-top: 100px;
+	width: 300px;
+	height: 300px;
+
+}
+
+ul {
+	font-family: cursive;
+	font-size: 36px;
+	line-height: 100px;
+	margin-left: 800px;
+	width: 250px;
+	padding: 50px;
+	background-color: tan;
+	text-decoration: underline;
+}

@@ -1,0 +1,132 @@
+body {
+	background-image: url("../images/counter.jpg");
+}
+
+#title {
+	text-align: center;
+	font-size: 72px;
+	font-family: cursive;
+	color: coral;
+	background-color: aqua;
+	margin-top: 10px;
+}
+
+#enjoy {
+	text-align: center;
+	margin-left: -500px;
+	font-size: 96px;
+	font-family: cursive;
+	color: coral;
+	background-color: aqua;
+	margin-top: 10px;
+}
+
+#home {
+	margin-top: 40px;
+	font-family: cursive;
+	float: left;
+	font-size: 36px;
+	color: aqua;
+	background-color: coral;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 5px solid;
+	border-color: aqua;
+}
+
+#tart {
+	float: left;
+	margin-left: -500px;
+	margin-top: -50px;
+	width: 600px;
+	height: 600px;
+}
+
+ul {
+	font-family: cursive;
+	font-size: 24px;
+	line-height: 40px;
+	margin-left: 800px;
+	width: 250px;
+	padding: 50px;
+	background-color: tan;
+	color: navy;
+}
+
+#ready {
+	font-family: cursive;
+	font-size: 32px;
+	color: navy;
+	text-align: center;
+	text-decoration: underline;
+	height: 20px;
+}
+
+
+#step1 {
+	width: 100px;
+	height: auto;
+	float: left;
+	margin-top: 10px;
+	margin-left: 350px;
+}
+
+#step2 {
+	width: 100px;
+	height: auto;
+	float: left;
+	margin-top: 110px;
+	margin-left: -100px;
+}
+
+#step3 {
+	width: 100px;
+	height: auto;
+	float: left;
+	margin-top: 210px;
+	margin-left: -100px;
+}
+
+
+#step4 {
+	width: 100px;
+	height: auto;
+	float: left;
+	margin-top: 310px;
+	margin-left: -100px;
+}
+
+#step5 {
+	width: 100px;
+	height: auto;
+	float: left;
+	margin-top: 410px;
+	margin-left: -60px;
+}
+
+.btn1 {
+	font-family: impact;
+	font-size: 36px;
+	color: aqua;
+	float: right;
+	margin-right: 300px;
+}
+
+.btn1:hover {
+	background-color: yellow;
+	font-size: 54px;
+}
+
+#emoji1 {
+	margin-top: 150px;
+}
+
+#emoji {
+	float: right;
+	margin-top: 150px;
+	margin-right: 30px;
+}
+
+div {
+	position: absolute;
+}

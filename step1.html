@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>STEP 1</title>
+</head>
+
+<link rel="stylesheet" type="text/css" href="style/step1.css">
+<style>
+	#step1 {
+		position: absolute;
+		margin-left: -20px;
+	}
+</style>
+<body>
+
+<p id="title"><b>STEP 1</b></p>
+
+<img id="step1" src="images/slice.jpg">
+
+<ul>
+	<li>Heat oven to 375 degrees Fahrenheit</li>
+ 	<li>Mix Bisquick, 2 tablespoons sugar, the butter and 1 package cream cheese in small bowl until dough forms a ball</li>
+ 	<p id="ready"><a href="step2.html"><b>Ready?</b></a></p>
+</ul>
+
+
+<script src="script/jquery-3.0.0.min.js"></script>
+<script>
+	$(document).ready(function(){
+		$("#step1").animate({left: "375px"});
+
+	});
+
+
+</script>
+
+
+
+</body>
+</html>

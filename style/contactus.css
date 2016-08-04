@@ -1,0 +1,49 @@
+body {
+	background-size: 1292px;
+}
+img {
+	margin-top: 123px;
+	margin-left: -50px;
+	
+}
+a {
+
+	font-family: HANZIPEN SC;
+}
+
+.btn {
+	font-size: 45px;
+	color: aqua;
+	background-color: coral;
+	
+}
+.btn:hover {
+	color: darkred;
+
+}
+.text {
+	background-color: aqua;
+	color: coral;
+	font-size: 17px;
+	text-align: center;
+	margin-bottom: -25px;
+	margin-top: 52px;
+	float: right;
+
+
+}
+form {
+	color: aqua;
+	padding-left: 50px;
+	padding-top: 200px;
+}
+.image {
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-left: -806px;
+	margin-right: 25px;
+}
+.enter-name {
+	color: black;
+}

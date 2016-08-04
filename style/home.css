@@ -1,0 +1,98 @@
+body { 
+background-size: 1282px; 
+}
+.header {
+	text-align: center;
+}
+h2 {
+	display: inline-block;
+	text-decoration: underline;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 10px;
+    color: yellow;
+	font-family: HANZIPEN SC;
+	font-size: 50px;
+}
+
+.btn1 {
+	font-size: cursive;
+	color: #4FE414;
+	float: left;
+	background-color: coral;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.btn1:hover {
+	color: yellow;
+}
+
+.btn2 {
+	font-size: cursive;
+	color: #4FE414;
+	float: right;
+	margin-left: 300px;
+	background-color: coral;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.btn2:hover {
+	color: yellow;
+}
+
+}#online {
+	float: right;
+}
+
+#body {
+	color: aqua;
+	font-size: 36px;
+	font-family: cursive;
+	text-decoration: none;
+	background-color: coral;
+	padding-left: 10px;
+
+} 
+img {
+	height: 309px;
+	width: 483px;
+	margin-right: 47%;
+	margin-left: 23%;
+}
+.btn {
+	color: #4FE414;
+}
+.btn1:hover {
+	color: yellow;
+}
+
+#home {
+	float: left;
+}
+
+#bake {
+	text-align: center;
+	color: green;
+	background-color: coral;
+	font-size: 64px;
+	font-family: cursive;
+	margin-left: 400px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+#bake:hover {
+	color: yellow;
+}
+
+#title {
+	font-family: cursive;
+	font-size: 90px;
+	color: aqua;
+	text-align: center;
+	border: 11px solid;
+	border-color: yellow;
+	background-color: coral;
+}

@@ -1,0 +1,260 @@
+body {
+	background-image: url("../images/counter.jpg");
+}
+
+a {
+	display: inline-block;
+	margin-right: 15%;
+
+	color: black;
+	font-family: hanzipen sc;
+	font-size: 38px;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+	margin-top: 20px;
+	margin-right: 102px;
+	margin-left: 9px;
+
+}
+
+#orders {
+	margin-left: 360px;
+	font-family: impact;
+	color: aqua;
+	font-size: 60px;
+	margin-top: 40px;
+	margin-bottom: -90px;
+	text-height: 60px;
+	width: 590px;
+	background-color: coral;
+    transform:skewX(25deg);
+    padding-left: 20px;
+    border: 5px solid;
+    border-color: yellow;
+ 
+}
+
+#late {
+	margin-left: 320px;
+	font-family: impact;
+	color: red;
+	font-size: 60px;
+	margin-top: 40px;
+	margin-bottom: -90px;
+	text-height: 60px;
+	width: 590px;
+	background-color: black;
+    transform:skewX(25deg);
+    padding-left: 100px;
+    padding-right: -50px;
+    border: 5px solid;
+    border-color: yellow;
+}
+
+#bold {
+	background-color: white;
+	padding-right: 15px;
+	opacity: 0.70
+}
+
+#bold:hover {
+	color: yellow;
+}
+
+#cap {
+	font-size: 48px;
+}
+
+
+.size1 {
+	
+	height: 300px;
+	width: 300px;
+	margin-left: 320px;
+	margin-right: 100px;
+
+}
+
+.size2 {
+	height: 300px;
+	width: 300px;
+	margin-left: 0px;
+	margin-right: 90px;
+}
+
+.bestsell {
+	float: right;
+	margin-right: 20px;
+}
+
+.price {
+	margin-top: -69px;
+	float: right;
+	margin-right: 100px;
+	font-family: cursive;
+	font-size: 32px;
+	color: aqua;
+	border-color: coral;
+	background-color: black;
+	width: 85px;
+	padding: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.price:hover {
+	background-color: yellow
+}
+
+
+.price1 {
+	margin-left: 100px;
+	margin-top: -20px;
+	font-family: cursive;
+	font-size: 32px;
+	color: aqua;
+	border-color: coral;
+	background-color: black;
+	width: 90px;
+	padding: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.price10 {
+	margin-left: 100px;
+	margin-top: -20px;
+	font-family: cursive;
+	font-size: 32px;
+	color: aqua;
+	border-color: coral;
+	background-color: coral;
+	width: 90px;
+	padding: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.price0 {
+	margin-right: 100px;
+	margin-top: -69px;
+	float:right;
+	font-family: cursive;
+	font-size: 32px;
+	color: aqua;
+	border-color: coral;
+	background-color: coral;
+	width: 90px;
+	padding: 1px;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.price1:hover {
+	background-color:yellow;
+}
+
+.price10:hover {
+	background-color:yellow;
+}
+
+.price0:hover {
+	background-color:yellow;
+}
+
+.price3 {
+	margin-top: -75px;
+	float: right;
+	margin-right: 415px;
+	font-family: cursive;
+	font-size: 32px;
+	color: aqua;
+	border-color: coral;
+	background-color: black;
+	width: 85px;
+	padding: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.price30 {
+	margin-top: -75px;
+	float: right;
+	margin-right: 415px;
+	font-family: cursive;
+	font-size: 32px;
+	color: aqua;
+	border-color: coral;
+	background-color: coral;
+	width: 85px;
+	padding: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+.price3:hover {
+	background-color:yellow;
+}
+
+.price30:hover {
+	background-color:yellow;
+}
+
+.price2 {
+	margin-left: 400px;
+	margin-top: -20px;
+	font-family: cursive;
+	font-size: 32px;
+	color: aqua;
+	border-color: coral;
+	background-color: black;
+	width: 90px;
+	padding: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.price20 {
+	margin-left: 400px;
+	margin-top: -20px;
+	font-family: cursive;
+	font-size: 32px;
+	color: aqua;
+	border-color: coral;
+	background-color: coral;
+	width: 90px;
+	padding: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+.price2:hover {
+	background-color:yellow;
+}
+
+.price20:hover {
+	background-color:yellow;
+}
+
+#txt {
+	font-size: 72px;
+	font-color: aqua;
+	text-align: center;
+	font-family: cursive;
+	background-color: coral;
+	border: 5px solid;
+	border-color: gold;
+	
+}
+
+/*p {
+	text-align: center;
+	color: red;
+	font-size: 28px;
+
+}*/

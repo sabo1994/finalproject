@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>STEP 5</title>
+</head>
+
+<link rel="stylesheet" type="text/css" href="style/step5.css">
+
+	<style>
+		#step5 {
+			position: absolute;
+			left: -20px;
+		}
+
+		#enjoy {
+			display: none;
+		}
+
+		#tart {
+			position: absolute;
+			left: -500px;
+		}
+
+		#emoji1 {
+			display: none;
+		}
+
+		#emoji {
+			display: none;
+		}
+
+		#home {
+			display: none;
+
+
+	</style>
+
+<body>
+
+<p><a href="home.html" id="home"><b>HOME</b></p></a>
+<p id="title"><b>STEP 5</b></p>
+<p id="enjoy"><b>ENJOY!</b></p>
+
+
+<div>
+<img id="step1" src="images/slice.jpg"><img id="step2" src="images/slice.jpg"><img id="step3" src="images/slice.jpg"><img id="step4" src="images/slice.jpg"><img id="step5" src="images/slice.jpg">
+</div>
+<img = id="tart" src="images/tart.jpg">
+
+<ul>
+	<li>Beat remaining package cream cheese</li>
+ 	<li>1/4 cup sugar and the sour cream until smooth</li>
+ 	<li>Spoon into tart shells, spreading over bottoms</li>
+ 	<li>Top each with about 1/4 cup fruit</li>
+ 	<li>Brush with jelly</li>
+</ul>
+
+<img id="emoji1" src="images/delicious.jpg"><img id="emoji" src="images/delicious.jpg">
+
+	<button class="btn1">Ready?!!!</button>
+
+
+<script src="script/jquery-3.0.0.min.js"></script>
+<script>
+	$(document).ready(function(){
+		$("#step5").animate({left: "410px"});
+
+		$(".btn1").click(function(){
+        	$(".btn1").hide();
+        	$("ul").hide();
+        	$("div").hide();
+        	$("#title").hide();
+        	$("#enjoy").fadeIn(3000);
+        	$("#tart").animate({left: "875px"}, 3000);
+        	$("#emoji1").fadeIn(5000);
+        	$("#emoji").fadeIn(5000);
+        	$("#home").fadeIn(5000)
+		});
+    });
+
+</script>
+
+
+
+
+</body>
+</html>

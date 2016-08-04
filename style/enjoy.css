@@ -1,0 +1,48 @@
+body {
+	background-image: url("../images/counter.jpg");
+}
+
+#title {
+	text-align: center;
+	font-size: 96px;
+	font-family: cursive;
+	color: coral;
+	background-color: aqua;
+	margin-top: 10px;
+}
+
+.tart {
+	float: left;
+	margin-left: 125px;
+	margin-top: 25px;
+	width: 500px;
+	height: 500px;
+}
+
+ul {
+	font-family: cursive;
+	font-size: 24px;
+	line-height: 40px;
+	margin-left: 800px;
+	width: 250px;
+	padding: 50px;
+	background-color: tan;
+	color: navy;
+}
+
+#ready {
+	font-family: cursive;
+	font-size: 32px;
+	color: navy;
+	text-align: center;
+	text-decoration: underline;
+	height: 20px;
+}
+
+#step1 {
+	width: 100px;
+	height: auto;
+	float: left;
+	margin-top: 10px;
+	margin-left: 350px;
+}
